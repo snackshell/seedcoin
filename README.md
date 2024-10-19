@@ -1,0 +1,2 @@
+# seedcoin
+Seed coin bot
